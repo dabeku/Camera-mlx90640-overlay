@@ -2,7 +2,7 @@
 
 Based on https://github.com/obstruse/ThermalCamera
 
-The only difference is it works with 64 bit Raspberry Pi OS.
+The only difference is it works with 64 bit Raspberry Pi OS since it uses picamera2 instead of pygame.camera
 
 * Connect to GPIO pins
 
