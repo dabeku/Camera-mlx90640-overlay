@@ -1,6 +1,6 @@
 # Camera mlx90640 overlay
 
-Based on https://github.com/obstruse/ThermalCamera
+Based on the amazing work of https://github.com/obstruse/ThermalCamera
 
 The only difference is it works with 64 bit Raspberry Pi OS since it uses picamera2 instead of pygame.camera
 
