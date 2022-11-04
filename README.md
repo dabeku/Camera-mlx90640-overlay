@@ -46,7 +46,7 @@ Start the script
 python3 heat.py
 ```
 
-## Working configuration
+### Working configuration
 
 * Raspberry Pi 4
 * MLX90640 (via GPIO pins)
@@ -56,7 +56,7 @@ python3 heat.py
     - USB C: RPi
     - Micro-USB: Display
 
-## Attention to /boot/config.txt and reboot after making changes
+### Attention to /boot/config.txt and reboot after making changes
 
 * Add: dtparam=i2c1_baudrate=400000
 * Set: camera_auto_detect = 0
